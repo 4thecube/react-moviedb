@@ -1,0 +1,16 @@
+.searchbox {
+  width: 100%;
+  border: transparent;
+  max-width: 600px;
+  background: #fff;
+  background: var(--clr-white);
+  padding: 1rem;
+  font-size: 1rem;
+  border-radius: 0.25rem;
+  border-radius: var(--radius);
+  color: #324d67;
+  color: var(--clr-grey-3);
+  margin-top: 3rem;
+
+  box-shadow: 0 6px 19.4px .6px hsla(0,0%,86.3%,.7);
+}
